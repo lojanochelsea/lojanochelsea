@@ -12,10 +12,8 @@
 
 <h2>📜 Certifications:</h2>
 
-  - [PCCET](Link)
-  - [Network+](Link)
-  - [Splunk Certified Core User](Link)
-  - [AZ-900](Link)
+  - In Progress
+  - Qualys
 
 <h2> 🤳 Connect with me:</h2>
 
